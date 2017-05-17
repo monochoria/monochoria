@@ -1,17 +1,15 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+pygments:         true
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
-title:            Nonlinear Labyrinth
-tagline:          'monochoria'
-description:      'Reading notes and etc'
-url:              http://monochoria.github.io
-baseurl:          /
+title:            Lanyon
+tagline:          'A Jekyll theme'
+description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://lanyon.getpoole.com
 
 author:
   name:           'Mark Otto'
@@ -20,7 +18,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          2.0.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/poole/lanyon
