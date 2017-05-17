@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            Nonlinear Labyrinth
-tagline:          'A Jekyll theme'
+tagline:          ''
 description:      'Reading notes and etc'
 url:              http://monochoria.github.io
 
@@ -15,10 +15,7 @@ author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
-paginate:         5
+paginate:         4
 
 # Custom vars
 version:          2.0.0
-
-github:
-  repo:           https://github.com/poole/lanyon
