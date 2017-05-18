@@ -9,22 +9,3 @@ category: diary
 （之前用 Typecho 来着，然而似乎 gg 了……）
 
 还不太懂该怎么用，慢慢学习吧……
-
-<p>
-$$
-\frac{3}{2}*\sum_{i = 0}^{n}\max(i, j)
-$$
-</p>
-
-```c
-#include <stdio.h>
-#include <stdlib.h>
-
-int main(void)
-{
-  printf("Hello, world!");
-  
-  return 0;
-}
-```
-
