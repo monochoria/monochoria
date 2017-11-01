@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux 调换 command 与左 ctrl 键
+title: js + node.js 实现简单的生成列表音乐播放器
 category: coding
 ---
 
